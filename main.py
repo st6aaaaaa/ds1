@@ -5,5 +5,8 @@ def print_hi(name):
 
 def sum(a,b):
     return a+b
+def sub(a,b):
+    return abs(a-b)
 
 print_hi('world')
+print(sub(1,4))
