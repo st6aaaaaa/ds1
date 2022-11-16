@@ -10,5 +10,7 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 
-print_hi('world')
+print('world')
 print(sub(1,4))
+
+print('student_id 373737373737')
