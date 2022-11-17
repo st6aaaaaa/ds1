@@ -26,4 +26,6 @@ print(s)
 print(s.lower())
 print('tresk')
 
-'привет медвед'
+'qwerasdfzxcv'
+'qwerasdfzxcv'
+'qwerasdfzxcv'
