@@ -29,3 +29,5 @@ print('tresk')
 'qwerasdfzxcv'
 'qwerasdfzxcv'
 'qwerasdfzxcv'
+
+'sting1string2........'
