@@ -6,7 +6,7 @@ def sum1(a):
 def sum2(a):
     return 2 + a
 def sum3(s):
-    return 3 + s
+    return 3 + ss
 
 def sum15(a):
     return a + 15
