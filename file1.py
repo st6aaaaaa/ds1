@@ -1,6 +1,9 @@
 
 def sum(a,b):
     return a+b
+')
+def plus(a=10,b):
+    return a + b
 def sum1(a):
     return 1+a
 def sum5(a):
@@ -12,9 +15,9 @@ def sum3(s):
     return 3 + s
 
 def sum4(a):
-    
-    return 3 + ss
-
+     return 3 + a
+def sub(a,b):
+    return a-b
 
 def sum15(a):
     return a + 15
@@ -26,17 +29,5 @@ print(s)
 print(s.lower())
 print('tresk')
 
-
-
-
-
-
-
-
-с1
-c2
-с3
-с4
-в1
-в2
-в3
+def mom():
+    print('hello,mom')
