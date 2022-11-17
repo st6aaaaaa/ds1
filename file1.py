@@ -31,3 +31,9 @@ print('tresk')
 
 def mom():
     print('hello,mom')
+  
+1933. Check if String Is Decomposable Into Value-Equal Substrings
+A value-equal string is a string where all characters are the same.
+Given a digit string s, decompose the string into some number of 
+consecutive value-equal substrings where exactly one substring 
+has a length of 2 and the remaining substrings have a length of 3
