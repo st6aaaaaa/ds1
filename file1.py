@@ -8,11 +8,16 @@ def sum5(a):
 def sum2(a):
     return 2 + a
 def sum3(s):
+
     return 3 + s
 
 def sum4(a):
-    return a+ 4
+    
+    return 3 + ss
 
+
+def sum15(a):
+    return a + 15
 
 s = 'abcdef'
 
