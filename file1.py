@@ -26,7 +26,17 @@ print(s)
 print(s.lower())
 print('tresk')
 
+
+
+
+
+
+
+
 с1
 c2
 с3
 с4
+в1
+в2
+в3
