@@ -25,3 +25,6 @@ s=s.upper()
 print(s)
 print(s.lower())
 print('tresk')
+
+def mom():
+    print('hello,mom')
