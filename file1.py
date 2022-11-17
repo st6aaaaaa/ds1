@@ -25,3 +25,7 @@ s=s.upper()
 print(s)
 print(s.lower())
 print('tresk')
+
+в1
+в2
+в3
