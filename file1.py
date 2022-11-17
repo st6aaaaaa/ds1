@@ -11,32 +11,6 @@ def sum3(s):
 
     return 3 + s
 
-def sum4(a):
-    
-    return 3 + ss
-
 
 def sum15(a):
     return a + 15
-
-s = 'abcdef'
-
-s=s.upper()
-print(s)
-print(s.lower())
-print('tresk')
-
-
-
-
-
-
-
-
-с1
-c2
-с3
-с4
-в1
-в2
-в3
