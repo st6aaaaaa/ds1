@@ -22,3 +22,7 @@ def min(a,b):
 
 def sub(a,b):
   return a - b 
+
+def boo(a,b):
+  return a% b == 1
+
