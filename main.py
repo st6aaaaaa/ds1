@@ -1,7 +1,6 @@
 
 def mod(a,b):
-    # added name function 
-
+    # added name function
     return a%b
 def sum(a,b):
     return a+b
