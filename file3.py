@@ -25,3 +25,4 @@ def sub(a,b):
 
 def boo(a,b):
   return a% b == 1
+
