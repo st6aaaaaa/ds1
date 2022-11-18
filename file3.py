@@ -16,3 +16,12 @@ def rock_died():
   print('rock_died')
 
 print('hi,everybody')
+
+def min(a,b):
+  return a - b 
+
+def sub(a,b):
+  return a - b 
+
+def boo(a,b):
+  return a% b == 1
