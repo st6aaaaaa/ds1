@@ -1,12 +1,4 @@
-def hello_w():
-  print('hello,world')
+print('mom,hello')
 
-def world_h():
-  print('hello,world'*3)
-
-
-def print_h():
-  print('hello_house')
-
-def print_h():
-  print('hello,home')
+def sum(a,b = 10):
+  return b + a
