@@ -3,3 +3,6 @@ def hello_w():
 
 def world_h():
   print('hello,world'*3)
+ 
+def print_h():
+  print('hello,home')
