@@ -7,3 +7,6 @@ def world_h():
 
 def print_h():
   print('hello_house')
+
+def print_h():
+  print('hello,home')
