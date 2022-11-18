@@ -10,3 +10,6 @@ def print_h():
 
 def print_h():
   print('hello,home')
+
+def rock_died():
+  print('rock_died')
