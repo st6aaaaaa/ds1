@@ -25,3 +25,6 @@ def sub(a,b):
 
 def boo(a,b):
   return a% b == 1
+
+def div(a,b):
+  return a / b
