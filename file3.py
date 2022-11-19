@@ -17,3 +17,9 @@ def d():
 
 def branch3_f1():
   return 'branch3 _ f1 '
+
+def kk():
+  return 'kk'
+
+def f3():
+  return 'f3'
