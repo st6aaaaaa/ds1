@@ -23,3 +23,5 @@ def kk():
 
 def f3():
   return 'f3'
+def f4():
+  return 'f4'
