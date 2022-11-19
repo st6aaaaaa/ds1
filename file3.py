@@ -8,3 +8,6 @@ def c():
 
 def branch1_f1():
   return 'branch1_f1'
+
+def branch2_f1():
+  return 'branch2_f1'
