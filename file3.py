@@ -14,3 +14,6 @@ def branch2_f1():
 
 def d():
   return 5*2
+
+def branch3_f1():
+  return 'branch3 _ f1 '
