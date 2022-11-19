@@ -5,3 +5,6 @@ def b():
 
 def c():
   return 4**2
+
+def branch3_f1():
+  return 'branch3 _ f1 '
