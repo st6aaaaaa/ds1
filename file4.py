@@ -1,16 +1,19 @@
-def f4_1():
-    return 'f4_1'
-def f4_2():
-    return 'f4_2'
-def f4_3():
-    return 'f4_3'
-def br_f4_3():
-    return 'br_f4_3()'
-def f4_4():
-    return 'f4_4'
-def m():
-    return 'm'
+import collections as coll
 
+a = [1,1,1,1,1,2,2,2]
 
-def br_f4_3():
-    return 'br_f4_3()'
+c = coll.Counter(a)
+
+def jjj(nums,target):
+     nums.append(target)
+     a = sorted(nums).index(target)
+     print(a)
+
+a = [1,2,3,4,5]
+print(a)
+a.extend([1,2,3,4])
+print(a)
+b = [1,2]
+
+a.extend(b[6:])
+print(a)
